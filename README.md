@@ -22,6 +22,13 @@ A simple and calming Mental Wellness Journal app that allows users to journal th
 ### 📌 Additional Enhancements  
 - **Calendar integration** to view journal entries and mood ratings by date.  
 - **localStorage support** for saving entries without a backend.
+- 
+### 📷 Screenshots
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/053795cc-cfcf-4e3b-b92d-5f74d3789789" />
+  <img width="1902" height="963" alt="image" src="https://github.com/user-attachments/assets/97aba77d-3327-4b87-a3d5-9149b7bff6e3" />
+
+  
+
   
 ### 🚀 Installation & Setup
 Clone the repository
